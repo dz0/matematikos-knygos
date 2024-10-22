@@ -11,3 +11,6 @@ Najai kuriami su atvirom licenzijom:
 - https://github.com/wolf-math/Big-Open-Source-Math-Book
 - https://github.com/sindrsh/openmathbooks?tab=readme-ov-file#english-versions
 - [ck12.org](https://www.ck12info.org/curriculum-materials-license/) vadovėlių [klonai](https://github.com/search?q=org%3ALiaBooks+flexbook+math&type=repositories)
+
+
+Užduotims  yra nemažai atviro kodo [užduočių generavimo priemonių](https://www.google.com/search?q=math+worksheet+generator+site%3Agithub.com) bei [užduočių rinkinių (EN)](https://gist.github.com/caot/23c8b609a04dde53fcad891028d78de9)
