@@ -1,5 +1,5 @@
 # matematikos-knygos
-kas matematikos knygų nebereikėtų pirkti :)
+kad matematikos knygų nebereikėtų pirkti :)
 
 Copyright teisės galioja ~100 metų 
 Seni vadovėliai, kuriems turbūt nebegalioja šios teisės:
