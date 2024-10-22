@@ -9,6 +9,7 @@ Seni vadovėliai, kuriems turbūt nebegalioja šios teisės:
 
 Najai kuriami su atvirom licenzijom:
 - https://github.com/wolf-math/Big-Open-Source-Math-Book
+- https://khanacademy.fandom.com/wiki/5th_grade_(U.S.)_Math_Mission
 - https://github.com/sindrsh/openmathbooks?tab=readme-ov-file#english-versions
 - [ck12.org](https://www.ck12info.org/curriculum-materials-license/) vadovėlių [klonai](https://github.com/search?q=org%3ALiaBooks+flexbook+math&type=repositories)
 
